@@ -1,6 +1,6 @@
 # PLACEMENT MANAGEMENT SYSTEM
 
-Project Installation is in # Installation_guide Folder
+Project Installation is in Installation_guide Folder
 
 About Project:
         The Placement Management System is like a helpful tool for college placement coordinator 
@@ -20,4 +20,12 @@ Technology Used:
 Front-end: HTML, CSS, JAVASCRIPT. 
 Back-end: PHP. 
 Database: MySQL
+
+
+
+Screen_Shots :
+![image](https://github.com/user-attachments/assets/68b90f10-2f0d-49d6-94cd-c6d9cedb740f)
+
+
+
 

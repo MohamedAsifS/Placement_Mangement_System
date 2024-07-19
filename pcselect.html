@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SELECTOR</title>
+    <link rel="stylesheet" href="styl2.css">
+    <link rel="stylesheet" href="styledrop.css">
+</head>
+<body>
+    <a href="index.php">
+        <img src="kct1.jpeg" alt="" height=90px>
+        </a>
+    
+    <header>PLACEMENT MANGEMENT SYSTEM</header>
+   <h1 style="margin-left: 40%; margin-top:5%">SELECT COURSE</h1>
+        <form id="redirectForm">
+            <select id="redirectDropdown">
+                <option value="">Select a Course</option>
+                <option value="MCA.php">MCA</option>
+                <option value="MBA.html">MBA</option>
+                <option value="BECSE.html">BECSE</option>
+            </select>
+            <button type="button" onclick="redirect()">Go</button>
+        </form>
+    
+        <script>
+            function redirect() {
+                var selectedPage = document.getElementById("redirectDropdown").value;
+                if (selectedPage) {
+                    window.location.href = selectedPage;
+                } else {
+                    alert("Please select a page to redirect.");
+                }
+            }
+        </script>
+   
+    
+</body>
+</html>

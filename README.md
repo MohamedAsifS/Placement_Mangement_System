@@ -17,14 +17,33 @@ Placement Staff to connect for Placement Drives, making the whole process smooth
 more organized. 
 Technology Used: 
 
-Front-end: HTML, CSS, JAVASCRIPT. 
-Back-end: PHP. 
+Front-end: HTML, CSS, JAVASCRIPT
+Back-end: PHP
 Database: MySQL
 
 
 
 Screen_Shots :
 ![image](https://github.com/user-attachments/assets/68b90f10-2f0d-49d6-94cd-c6d9cedb740f)
+
+![image](https://github.com/user-attachments/assets/45abd1d3-60aa-42e9-b9f7-321d063ff4ea)
+
+![image](https://github.com/user-attachments/assets/e3431450-30f5-483e-9531-a89d151eedce)
+
+![image](https://github.com/user-attachments/assets/6c53d89b-de41-4ec2-9a9c-a9d4702f7f80)
+
+![image](https://github.com/user-attachments/assets/e24fce40-2ea0-4db1-bd7a-51d43fbffe96)
+
+![image](https://github.com/user-attachments/assets/28be4990-2c19-4d07-9808-d4a1281c115d)
+
+![image](https://github.com/user-attachments/assets/de862907-7365-468e-95c7-b8b2b9fe9752)
+
+![image](https://github.com/user-attachments/assets/922dedd8-d468-47db-acf6-f968fc65e6db)
+
+
+
+
+
 
 
 
